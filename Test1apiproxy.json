@@ -1,0 +1,25 @@
+{
+  "args": {}, 
+  "data": "{\r\n\t\"firstname\":\"John\",\r\n\t\"lastname\":\"Doe\",\r\n\t\"city\": \"San Jose\",\r\n\t\"state\": \"CA\"\r\n}\r\n", 
+  "files": {}, 
+  "form": {}, 
+  "headers": {
+    "Accept": "*/*", 
+    "Accept-Encoding": "gzip, deflate, br", 
+    "Cache-Control": "no-cache", 
+    "Content-Length": "86", 
+    "Content-Type": "application/json", 
+    "Host": "httpbin.org", 
+    "Postman-Token": "e3ce38bd-e7ab-4b9c-9117-9e0e8004e326", 
+    "User-Agent": "PostmanRuntime/7.36.1", 
+    "X-Amzn-Trace-Id": "Root=1-65c2f6ed-293693343f5479b92c97101d"
+  }, 
+  "json": {
+    "city": "San Jose", 
+    "firstname": "John", 
+    "lastname": "Doe", 
+    "state": "CA"
+  }, 
+  "origin": "54.86.50.139", 
+  "url": "http://httpbin.org/post"
+}
