@@ -1,6 +1,6 @@
 {
-    "city": "San Jose", 
-    "firstname": "John", 
-    "lastname": "Doe", 
-    "state": "CA"
+	"firstname":"John",
+	"lastname":"Doe",
+	"city": "San Jose",
+	"state": "CA"
 }
